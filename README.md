@@ -287,20 +287,6 @@ db.products.aggregate([
 
 ---
 
-# Screenshots
-
-## Dashboard Preview
-
-(Add screenshots here)
-
-Example:
-
-```markdown
-![Dashboard](Screenshots/dashboard.png)
-```
-
----
-
 # Advantages
 
 - Flexible schema support
